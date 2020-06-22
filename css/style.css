@@ -1,0 +1,31 @@
+body{
+	background: #ccc;
+}
+
+#color {
+	background: DodgerBlue;
+}
+nav a {
+	color: black;
+}
+.form {
+	border: 2px solid black;
+	max-width: 500px;
+	padding: 40px;
+	border-radius: 8px;
+	margin: 20px auto;
+}
+
+.validate {
+	padding: 12px 30px;
+	background-color: #f8d7da;
+	color: #721c24;
+	border-radius: 4px;
+	max-width: 500px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+h1 {
+	text-align: center;
+}
